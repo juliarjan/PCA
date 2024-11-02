@@ -1,2 +1,3 @@
 # PCA
-Principal Component Analysis
+Principal Component Analysis using Python
+
